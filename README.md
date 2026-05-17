@@ -83,7 +83,7 @@
 
 **Key Findings:**
 - 🚚 Only **47%** on-time delivery — critical business issue
-- 📈 February is peak month — Valentine's Day demand
+- 📈 February is the peak month — Valentine's Day demand
 - 🏭 PLANT01 and PLANT03 most cost efficient warehouses
 - 💻 Computers drive **34.6%** of total revenue
 
@@ -116,7 +116,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagarAnalytics)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehan298@gmail.com)
 
 ---
 
