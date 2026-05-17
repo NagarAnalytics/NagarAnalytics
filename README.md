@@ -39,7 +39,7 @@
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-F2C811?style=for-the-badge)
 
 ---
 
