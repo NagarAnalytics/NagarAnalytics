@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Neha Nagar 👋
 
-<!--
-**NagarAnalytics/NagarAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Data Analyst | Ex-Support Specialist
 
-Here are some ideas to get you started:
+I transform raw data into business decisions 
+using Excel, SQL, Python, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+## 📊 Featured Projects
+
+### 🏦 Bank Customer Analytics
+- Random Forest ML model — **84.3% accuracy**
+- RFM segmentation — 6 customer segments
+- 5-page Power BI dashboard
+
+### 📦 Supply Chain Analytics
+- Demand forecasting using **Facebook Prophet**
+- EOQ inventory optimization
+- Analyzed **$55.76M** in revenue
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
