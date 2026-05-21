@@ -9,7 +9,7 @@
 ## 🎯 About Me
 
 - 🔍 Specialized in **data cleaning, KPI analysis, and business storytelling**
-- 💼 Background in **customer support** — I understand business problems deeply
+- 💼 Background in **Customer Support** — I understand business problems deeply
 - 📊 Building end-to-end analytics projects using **Excel, SQL, Python and Power BI**
 - 🌱 Currently expanding into **Machine Learning and Advanced Analytics**
 - 📍 Based in **Kota, Rajasthan, India**
