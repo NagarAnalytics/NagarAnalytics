@@ -1,6 +1,6 @@
 # Hi, I'm Neha Nagar 👋
 
-### Data Analyst | Ex-Support Specialist | Kota, India
+### Data Analyst | Ex-Support Specialist | Rajasthan, India
 
 > *"I turn messy data into clear business decisions"*
 
