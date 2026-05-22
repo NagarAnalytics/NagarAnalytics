@@ -106,10 +106,11 @@
 
 ## 📈 GitHub Stats
 
-[![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagarAnalytics&show_icons=true&theme=tokyonight_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=NagarAnalytics&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=NagarAnalytics&color=blue&style=for-the-badge&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NagarAnalytics&layout=compact&theme=tokyonight_border=true)
+![Followers](https://img.shields.io/github/followers/NagarAnalytics?style=for-the-badge&color=blue)
 
+![Stars](https://img.shields.io/github/stars/NagarAnalytics?style=for-the-badge&color=blue)
 ---
 
 ## 📫 Connect With Me
