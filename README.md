@@ -103,14 +103,13 @@
 | [Data Science Salary Analysis](https://github.com/NagarAnalytics/Data-Science-Salary-Analysis) | HR Analytics | Python |
 
 ---
-
 ## 📈 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=NagarAnalytics&color=blue&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=NagarAnalytics&color=0e75b6&style=for-the-badge&label=Profile+Views)
 
-![Followers](https://img.shields.io/github/followers/NagarAnalytics?style=for-the-badge&color=blue)
+![Followers](https://img.shields.io/github/followers/NagarAnalytics?style=for-the-badge&color=0e75b6&logo=github)
 
-![Stars](https://img.shields.io/github/stars/NagarAnalytics?style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/github/stars/NagarAnalytics?style=for-the-badge&color=0e75b6&logo=github)
 ---
 
 ## 📫 Connect With Me
